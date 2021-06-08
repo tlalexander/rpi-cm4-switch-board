@@ -1,4 +1,4 @@
-# Raspberry Pi Compute Module 4 (CM4) Base Carrier
+# Raspberry Pi Compute Module 4 (CM4) Less is More (LiM) Carrier Board
 
 ![Rendered example of RPi CM4 Carrier Template PCB](https://raw.githubusercontent.com/ShawnHymel/rpi-cm4-base-carrier/main/images/rpi-cm4-base-carrier-rendered.jpg)
 
