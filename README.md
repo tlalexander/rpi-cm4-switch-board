@@ -21,7 +21,7 @@ Feel free to modify this design for your own application. This PCB is currently 
 
 Other iterations of the LiM board, inlcuding SD card tray and flashing capability are in the design stages.
 
-You can read more about my RPi musings and projects on my [RPi Mosings Blog](https://rpi.loonix.ca/).
+You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/).
 
 ## License
 
