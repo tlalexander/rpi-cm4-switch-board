@@ -17,7 +17,7 @@ I forked this board design from [Shawn Hymel](https://github.com/ShawnHymel/rpi-
 - [Part 1 - How to Make a Raspberry Pi Compute Module 4 Carrier Board in KiCad](https://www.youtube.com/watch?v=ypcPJC_umPQ)
 - [Part 2 - How to Make a Raspberry Pi Compute Module 4 Carrier Board in KiCad](https://www.youtube.com/watch?v=ge6gYIENo8Q&t)
 
-Feel free to modify this design for your own application. This PCB is currently being prototyped.
+Feel free to modify this design for your own application. This PCB is currently being prototyped and a case is in the works as well.
 
 Other iterations of the LiM board, inlcuding SD card tray and flashing capability are in the design stages.
 
