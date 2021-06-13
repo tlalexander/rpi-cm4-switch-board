@@ -1,14 +1,17 @@
-# RPi Compute Module 4 (CM4) Less is More (LiM) Carrier Board
+# RPi CM4 - LiM Carrier Board
 
-A minimalistic Carrier Board for the Raspberry Pi Compute Module 4 (CM4).  It provides power to the module through the USB-C connector (power only, no data) and power/activity LEDs.
+A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less is More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs.
 
-![Rendered RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-top.PNG)
+This is meant for CM4 boards with onboard storage and wifi as this carrier boards provides no other functionalty other than power and status LEDs.
 
-![Rendered RPi CM4 LiM Carrier Board PCB Bottom](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-bottom.PNG)
+LiM Board - top side             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Rendered RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-top.PNG)  |  ![Rendered RPi CM4 LiM Carrier Board PCB Bottom](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-bottom.PNG)
 
 
 Feel free to modify this design for your own application. This PCB is currently being prototyped.
 
+Other iterations of the LiM board, inlcuding SD card tray and flashing capability) are in the design stages.
 
 ## License
 
