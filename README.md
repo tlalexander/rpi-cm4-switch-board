@@ -1,6 +1,6 @@
 # RPi CM4 - LiM Carrier Board
 
-A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less is More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs.
+A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs.
 
 This is meant for CM4 boards with onboard storage and wifi as this carrier boards provides no other functionalty other than power and status LEDs.
 
@@ -10,7 +10,7 @@ LiM Carrier Board - top view             |  LiM Carrier Board - bottem view
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
 
-Neither of these boards are exactly what I was looking for for my use case. So insipired by Jeff I decided to design my own, customized board to my specs and that how the Less-is-More board came to be. 
+Neither of these boards are exactly what I was looking for for my use case. So insipired by Jeff I decided to design my own, customized board to my specs and that's how the Less-is-More board came to be. 
 
 I forked this board design from [Shawn Hymel](https://github.com/ShawnHymel/rpi-cm4-base-carrier). He has a two part youtube series where he goes through how to design a CM4 Carrier Board.
 
