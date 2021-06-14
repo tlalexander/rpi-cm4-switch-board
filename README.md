@@ -23,11 +23,11 @@ Other iterations of the LiM board, inlcuding SD card tray and flashing capabilit
 
 Here is the current brainstorm list of planned boards:
 
-Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card lsot
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:	
-LiM Board | &#10004; | &#10004; | &#10004; | &#10004; 
-LiM+ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-LiM++ Board | :x: | :x: | :x: | :x:
+Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card slot | Development Stage
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+LiM Board | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | Prototyping
+LiM+ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | conceptual
+LiM++ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | conceptual
 
 
 You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/).
