@@ -25,9 +25,9 @@ Here is the current brainstorm list of planned boards:
 
 Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card slot | Development Stage
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-LiM Board | &#10004; | :heavy_check_mark: | :x: | &#10060; | Prototyping
-LiM+ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | conceptual
-LiM++ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | conceptual
+LiM Board | &#10004; | &#10004; | &#10004; | &#10004; | Prototyping
+LiM+ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
+LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
 
 
 You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/).
