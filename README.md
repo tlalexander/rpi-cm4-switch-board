@@ -32,7 +32,7 @@ LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
 
 You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/).
 
-##About
+## About
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/pin?username=l00nix&repo=rpi-cm4-LiM-board&show_icons=true&hide_border=true&show_owner=true&theme=graywhite)](https://github.com/l00nix/rpi-cm4-LiM-board)
 
