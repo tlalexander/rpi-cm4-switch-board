@@ -32,6 +32,12 @@ LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
 
 You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/).
 
+##About
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin?username=l00nix&repo=rpi-cm4-LiM-board&show_icons=true&hide_border=true&show_owner=true&theme=graywhite)](https://github.com/l00nix/rpi-cm4-LiM-board)
+
+This project is maintained by [Alexander Rau](https://rpi.loonix.ca). The Raspberry Pi Compute Module 4 is a product of [Raspberry Pi (Trading) Limited](https://www.raspberrypi.org/about/).
+
 ## License
 
 Schematic and PCB layout files are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/2.0/) license.
