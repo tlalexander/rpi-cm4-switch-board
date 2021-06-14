@@ -25,7 +25,7 @@ Here is the current brainstorm list of planned boards:
 
 Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card slot | Development Stage
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-LiM Board | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | Prototyping
+LiM Board | &#10004; | :heavy_check_mark: | :x: | &#10060; | Prototyping
 LiM+ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | conceptual
 LiM++ Board | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | conceptual
 
