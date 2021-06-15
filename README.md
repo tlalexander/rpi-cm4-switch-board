@@ -38,7 +38,8 @@ You can read more about my RPi musings and projects on my [l00nix's RPi Musings 
 
 ## About
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin?username=l00nix&repo=rpi-cm4-LiM-board&show_icons=true&hide_border=true&show_owner=true&theme=graywhite)](https://github.com/l00nix/rpi-cm4-LiM-board)
+#[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin?username=l00nix&repo=rpi-cm4-LiM-board&show_icons=true&hide_border=true&show_owner=true&theme=graywhite)](https://github.com/l00nix/rpi-cm4-LiM-board)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin?username=l00nix&repo=rpi-cm4-LiM-board)](https://github.com/l00nix/rpi-cm4-LiM-board)
 
 This project is maintained by [Alexander Rau](https://rpi.loonix.ca). The Raspberry Pi Compute Module 4 is a product of [Raspberry Pi (Trading) Limited](https://www.raspberrypi.org/about/).
 
