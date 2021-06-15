@@ -7,7 +7,7 @@ This is meant for CM4 boards with onboard storage and wifi as this carrier board
 LiM Carrier Board - top view             |  LiM Carrier Board - bottem view
 :-------------------------:|:-------------------------:
 ![Rendered RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-top.PNG)  |  ![Rendered RPi CM4 LiM Carrier Board PCB Bottom](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-bottom.PNG)
-![3D RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board-3D-top.jpg)  |  ![3D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
+![3D RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-top.jpg)  |  ![3D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
 
