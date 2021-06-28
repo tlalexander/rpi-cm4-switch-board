@@ -6,7 +6,7 @@
 
   (title_block
     (title "RPi CM4 Less is More (LiM) Carrier Board")
-    (date "2021-06-08")
+    (date "2021-06-18")
     (rev "v01")
     (comment 2 "License: CC BY-SA 4.0")
     (comment 3 "Design: thelasthandyman")

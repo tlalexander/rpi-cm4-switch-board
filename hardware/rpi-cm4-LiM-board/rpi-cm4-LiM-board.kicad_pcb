@@ -319,6 +319,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Fiducial:Fiducial_1mm_Mask2mm" (layer "F.Cu")
@@ -489,6 +494,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
@@ -530,6 +540,11 @@
     (pad "2" smd roundrect locked (at 0.9125 0 270) (size 0.975 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 9 "/CM4 GPIO/nLED_Activity") (pintype "passive") (tstamp 9deb72d2-83d6-4fdb-9154-ccb727d8d681))
     (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -578,6 +593,11 @@
     (pad "2" smd roundrect locked (at 0.7875 0 270) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 3 "+3.3V") (pinfunction "A") (pintype "passive") (tstamp 8c87c463-6752-4996-b990-16c3f55360ab))
     (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -660,6 +680,11 @@
       (net 1 "GND") (pinfunction "GND") (pintype "power_in") (tstamp e341a820-c0f1-465e-873a-735285b51391))
     (pad "None" np_thru_hole circle locked (at 2.89 -3.68 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 80e6554c-d8c6-4572-b883-c28c1029e204))
     (pad "None" np_thru_hole circle locked (at -2.89 -3.68 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp d5d01d27-d2d9-452c-a570-95163ec832b0))
+    (model "C:/Users/Ayan Rau/Downloads/rpi-cm4-LiM+-board/hardware/rpi-cm4-LiM+-board/USB4105-GF-A/USB4105-GF-A--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
@@ -704,6 +729,11 @@
     (pad "2" smd roundrect locked (at 0.7875 0 270) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 3 "+3.3V") (pinfunction "A") (pintype "passive") (tstamp ba946c5e-767b-4fdd-9edf-c634d128c0ef))
     (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -753,6 +783,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
@@ -794,6 +829,11 @@
     (pad "2" smd roundrect locked (at 0.9125 0 270) (size 0.975 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "Net-(R6-Pad2)") (pintype "passive") (tstamp 34c4f25a-f745-4329-b389-3c364ee92108))
     (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "C:/Program Files/KiCad/5.99/share/kicad/3dmodels/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1279,20 +1319,20 @@
       (net 66 "unconnected-(Module1-Pad199)") (pinfunction "HDMI0_SDA") (pintype "bidirectional") (tstamp eb26954d-c648-448f-81b1-0c4248a6015a))
     (pad "200" smd rect locked (at 35 -11.7 90) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 65 "unconnected-(Module1-Pad200)") (pinfunction "HDMI0_SCL") (pintype "open_collector") (tstamp f0fa5887-e19c-47f1-b554-d0c06544a619))
-    (model "./CM4.3dshapes/DF40C-100DS.stp"
+    (model "C:/Users/Ayan Rau/Downloads/rpi-cm4-LiM+-board/hardware/rpi-cm4-LiM+-board/CM4IO.3dshapes/DF40C-100DS.stp"
       (offset (xyz -0.46 15.38 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "./CM4IO.3dshapes/DF40C-100DS.stp"
-      (offset (xyz 33.46 15.38 0))
+    (model "C:/Users/Ayan Rau/Downloads/rpi-cm4-LiM+-board/hardware/rpi-cm4-LiM+-board/CM4IO.3dshapes/DF40HC(3.0)-100DS-0.4V.stp" hide
+      (offset (xyz 33.46 21.38 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "E:/shubh works/maengman/rpi cm4 step/cm-min.step"
-      (opacity 0.9700)      (offset (xyz 52.5 -2.5 2))
+    (model "C:/Users/Ayan Rau/Downloads/rpi-cm4-LiM+-board/hardware/rpi-cm4-LiM+-board/CM4IO.3dshapes/DF40C-100DS.stp"
+      (offset (xyz -0.5 15.5 0.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 -90))
+      (rotate (xyz -90 0 0))
     )
   )
 
