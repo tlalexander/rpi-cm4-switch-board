@@ -8,7 +8,7 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
 
-![LiM Carrier Board booting up](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/InVideo___Project_ID__531pprenderfs_1626439577092.mp4)
+![LiM Carrier Board booting up](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM_booting.gif)
 
 _**VID1 - LiM Carrier Board booting up**_
 
