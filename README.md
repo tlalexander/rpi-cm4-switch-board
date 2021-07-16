@@ -1,13 +1,13 @@
-# RPi CM4 - LiM Carrier Board
+# RPi CM4 - LiM Carrier Board series
 
-A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs. Additional + versions of the LiM Carrier Board might feature additional functionality such as flashing capability and SD card slot (see conceptual table below).
+The LiM Carrier Board series is a series of minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Boards. Less-is-More (LiM) refers to the minimalistic design only providing the most rudimentary functionality to the CM4 such as 5V power via USB-C power connector and two status (power/activity) LEDs for the original LiM Carrier Board version. Additional + versions of the LiM Carrier Board will/might feature additional functionality such as flashing capability and SD card slot (see conceptual table below).
 
 This is meant for CM4 boards with onboard storage (a future LiM version might sport a SD card slot for CM4 Lite modules) and wifi as this carrier board provides no other functionalty other than power and status LEDs.
 
-![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
-PIC1 - LiM Carrier Board with CM4 side by side
+![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)
+_**PIC1 - LiM Carrier Board with CM4 side by side**_
 
-The fist version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
+The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
 
