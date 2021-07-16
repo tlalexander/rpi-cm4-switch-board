@@ -7,7 +7,7 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 ![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
 PIC1 - LiM Carrier Board with CM4 side by side
 
-The fist version of the LiM Carrier Board has been prototyped and more information can be found [here](about/LiM_Board.md).
+The fist version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
 
@@ -26,7 +26,7 @@ Here is the current conceptual list of planned boards:
 
 Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card slot | Development Stage
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-LiM Board | &#10004; | &#10004; | &#10060; | &#10060; | [prototype](about/LiM_Board.md)
+LiM Board | &#10004; | &#10004; | &#10060; | &#10060; | [prototype](pages/LiM_Board.md)
 LiM+ Board | &#10004; | &#10004; | &#10004; | &#10060; | prototyping
 LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
 
