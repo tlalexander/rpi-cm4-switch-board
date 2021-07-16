@@ -7,11 +7,6 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 ![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)
 _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
-
-![LiM Carrier Board booting up](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM_booting.gif)
-
-_**VID1 - LiM Carrier Board booting up**_
-
 The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
