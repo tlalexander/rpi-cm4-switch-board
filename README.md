@@ -7,6 +7,9 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 ![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)
 _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IoSWfgwpsAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_**VID1 - LiM Carrier Board booting up**_
+
 The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
@@ -20,7 +23,7 @@ I forked this board design from [Shawn Hymel](https://github.com/ShawnHymel/rpi-
 
 Feel free to modify this design for your own application. 
 
-Other iterations of the LiM board, inlcuding SD card tray and flashing capability are in the design stages.
+Other iterations of the LiM board, inlcuding SD card tray and flashing capability are in the conceptual or prototype stages.
 
 Here is the current conceptual list of planned boards:
 
