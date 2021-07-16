@@ -7,7 +7,9 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 ![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)
 _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IoSWfgwpsAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+https://user-images.githubusercontent.com/4390380/125946749-4237ae4f-8b53-44a2-a73a-2974c5f0c50c.mp4
 _**VID1 - LiM Carrier Board booting up**_
 
 The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
