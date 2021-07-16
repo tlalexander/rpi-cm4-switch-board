@@ -1,13 +1,16 @@
 # RPi CM4 - LiM Carrier Board
 
-A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs. Additional + versions of the LiM Carrier Board might feature additional functionality such as flashing capability and SD card slot (see conceptual table below).
+A minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design only providing 5V power via USB-C power connector and two status (power/activity) LEDs.
 
-This is meant for CM4 boards with onboard storage (a future LiM version might sport a SD card slot for CM4 Lite modules) and wifi as this carrier board provides no other functionalty other than power and status LEDs.
+This is meant for CM4 boards with onboard storage and wifi as this carrier board provides no other functionalty other than power and status LEDs.
 
-![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
-PIC1 - LiM Carrier Board with CM4 side by side
+LiM Carrier Board - top view             |  LiM Carrier Board - bottom view
+:-------------------------:|:-------------------------:
+![Rendered RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-top.PNG)  |  ![Rendered RPi CM4 LiM Carrier Board PCB Bottom](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-bottom.PNG)
 
-The fist version of the LiM Carrier Board has been prototyped and more information can be found [here](about/LiM_Board.md).
+LiM Carrier Board - 3D top view             |  LiM Carrier Board - 3D side view
+:-------------------------:|:-------------------------:
+![3D RPi CM4 LiM Carrier Board PCB Top](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-top.jpg)  |  ![3D RPi CM4 LiM Carrier Board PCB Side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/rpi-cm4-LiM-board-3D-side.jpg)
 
 The idea for such a minimalistic board was born from a conversation with [Jeff Geerling](https://www.jeffgeerling.com/) when I asked him if he knew of a more minimalistic design than [this board](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/)? He pointed me to to uptime.lab's [Upberry](https://www.instagram.com/p/CPGakesLwBo/).
 
@@ -18,16 +21,16 @@ I forked this board design from [Shawn Hymel](https://github.com/ShawnHymel/rpi-
 - [Part 1 - How to Make a Raspberry Pi Compute Module 4 Carrier Board in KiCad](https://www.youtube.com/watch?v=ypcPJC_umPQ)
 - [Part 2 - How to Make a Raspberry Pi Compute Module 4 Carrier Board in KiCad](https://www.youtube.com/watch?v=ge6gYIENo8Q&t)
 
-Feel free to modify this design for your own application. 
+Feel free to modify this design for your own application. This PCB is currently being prototyped and a case is in the works as well.
 
 Other iterations of the LiM board, inlcuding SD card tray and flashing capability are in the design stages.
 
-Here is the current conceptual list of planned boards:
+Here is the current brainstorm list of planned boards:
 
 Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card slot | Development Stage
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-LiM Board | &#10004; | &#10004; | &#10060; | &#10060; | [prototype](about/LiM_Board.md)
-LiM+ Board | &#10004; | &#10004; | &#10004; | &#10060; | prototyping
+LiM Board | &#10004; | &#10004; | &#10060; | &#10060; | Prototyping
+LiM+ Board | &#10004; | &#10004; | &#10004; | &#10060; | conceptual
 LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
 
 
