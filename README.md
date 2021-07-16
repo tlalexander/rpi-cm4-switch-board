@@ -10,6 +10,7 @@ _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
 
 https://user-images.githubusercontent.com/4390380/125946749-4237ae4f-8b53-44a2-a73a-2974c5f0c50c.mp4
+
 _**VID1 - LiM Carrier Board booting up**_
 
 The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md).
