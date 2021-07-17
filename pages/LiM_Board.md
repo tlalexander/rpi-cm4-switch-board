@@ -17,9 +17,9 @@ LiM Carrier Board - with CM4             |  LiM Carrier Board - running
 ![LiM Carrier Board Top View](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM_CM4.jpg)  |  ![Rendered RPi CM4 LiM Carrier Board PCB Bottom](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM_running.jpg)
 
 
-https://user-images.githubusercontent.com/4390380/126003134-fc4f2ec4-0bd2-4823-824f-7b89d58d6c5a.mp4
+[LiM Carrier Board booting up](https://user-images.githubusercontent.com/4390380/126003134-fc4f2ec4-0bd2-4823-824f-7b89d58d6c5a.mp4)
 
-_**LiM Carrier Board booting up**_
+_**VID1 - LiM Carrier Board booting up**_
 
 LiM Carrier Board 2D Render - top view             |  LiM Carrier Board 2D Render - bottom view
 :-------------------------:|:-------------------------:
