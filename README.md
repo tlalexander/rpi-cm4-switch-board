@@ -7,6 +7,8 @@ the gigabit switch independent of the CM4 modules. However this also makes
 for an interesting board in its own right, as two wifi CM4 modules could
 make this an interesting router board.
 
+![A 3D rendering of the prototype board.](images/switch_cm4.png "Prototype board")
+
 
 ## About
 
