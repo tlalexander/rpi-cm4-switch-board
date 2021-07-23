@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/../libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/../libraries/USB4105-GF-A/USB4105-GF-A.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../libraries/2020-11-06_22-01-36/footprints.pretty")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/../libraries/SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_.pretty")(options "")(descr ""))
+  (lib (name "BEL_0826-1G1T-23-F")(type "KiCad")(uri "/home/taylor/Software/rpi-cm4-LiM-board/hardware/libraries/BEL_0826-1G1T-23-F")(options "")(descr ""))
+)
