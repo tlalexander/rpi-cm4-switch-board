@@ -2,10 +2,13 @@
 
 A raspberry pi cm4 board with integrated gigabit switch.
 
-For now, there are two CM4 modules and three RJ45 jacks. This will let me test
-the gigabit switch independent of the CM4 modules. However this also makes
-for an interesting board in its own right, as two wifi CM4 modules could
-make this an interesting router board.
+Two CM4s and three RJ45 Jacks each connected to a [Microchip KSZ9567](https://www.microchip.com/wwwproducts/en/KSZ9567#datasheet-toggle)
+
+In the future I will make a board with four CM4 modules and one RJ45 on the
+switch, but for now I am making this so I can test the switch on its own.
+
+However this also makes for an interesting board in its own right, as two
+wifi CM4 modules could make this an interesting router board.
 
 ![A 3D rendering of the prototype board.](images/switch_cm4.png "Prototype board")
 
