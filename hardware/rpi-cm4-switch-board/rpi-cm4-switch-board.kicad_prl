@@ -63,11 +63,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc34ff_ffffffff",
+    "visible_layers": "ffcb4ff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "rpi-cm4-LiM-board.kicad_prl",
+    "filename": "rpi-cm4-switch-board.kicad_prl",
     "version": 3
   },
   "project": {
