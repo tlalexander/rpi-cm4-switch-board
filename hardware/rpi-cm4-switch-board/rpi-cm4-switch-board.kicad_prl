@@ -64,7 +64,7 @@
       36
     ],
     "visible_layers": "ffcb4ff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "rpi-cm4-switch-board.kicad_prl",
